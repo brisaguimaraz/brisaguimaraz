@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Brisa Guimaraz
 
 - 👀 I’m interested in *Front-End Development* 
-- 🌱 I’m currently learning *HTML/CSS*
+- 🌱 I’m currently learning *EXPRESS / CRUD*
 
 <!---
 brisaguimaraz/brisaguimaraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
